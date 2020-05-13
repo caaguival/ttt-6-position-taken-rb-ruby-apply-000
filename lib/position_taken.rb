@@ -1,5 +1,5 @@
 # code your #position_taken? method here!
 def position_taken?(board, index)
-  if board[index] == board[" "]
+  if board[index] == board[" "to.i]
 end
 end
